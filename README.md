@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
