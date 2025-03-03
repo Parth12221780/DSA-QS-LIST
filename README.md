@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0303-range-sum-query-immutable) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0069-sqrtx) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
