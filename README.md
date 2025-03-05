@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0303-range-sum-query-immutable) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
