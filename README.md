@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
