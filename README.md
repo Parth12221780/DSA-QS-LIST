@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
