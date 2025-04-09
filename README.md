@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
