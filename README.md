@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
