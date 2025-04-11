@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
