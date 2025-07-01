@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
