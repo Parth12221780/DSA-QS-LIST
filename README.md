@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0303-range-sum-query-immutable) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
