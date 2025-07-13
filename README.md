@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -144,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Backtracking
 |  |
