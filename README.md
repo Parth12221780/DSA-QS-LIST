@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
+| [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
