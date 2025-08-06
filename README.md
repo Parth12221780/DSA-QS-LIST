@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0046-permutations) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0125-valid-palindrome) |
