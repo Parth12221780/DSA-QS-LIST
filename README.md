@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0234-palindrome-linked-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
