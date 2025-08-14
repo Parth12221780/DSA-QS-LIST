@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1985-maximum-subarray-min-product](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1985-maximum-subarray-min-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0303-range-sum-query-immutable) |
+| [1985-maximum-subarray-min-product](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1985-maximum-subarray-min-product) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0234-palindrome-linked-list) |
+| [1985-maximum-subarray-min-product](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
+| [1985-maximum-subarray-min-product](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1985-maximum-subarray-min-product) |
 ## Linked List
 |  |
 | ------- |
