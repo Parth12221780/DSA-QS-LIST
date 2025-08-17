@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -288,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
