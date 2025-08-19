@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
