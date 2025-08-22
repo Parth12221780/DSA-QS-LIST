@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
