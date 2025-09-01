@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0303-range-sum-query-immutable) |
+| [0542-01-matrix](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0542-01-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0801-is-graph-bipartite) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/0542-01-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Parth12221780/DSA-QS-LIST/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
